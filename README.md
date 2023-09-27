@@ -1,6 +1,6 @@
 # Barnyard2 Cookbook
 
-cookbook to install and configure barnyard2 service in redborder environments
+cookbook to install and configure barnyard2 service in redborder environments test
 
 ### Platforms
 
