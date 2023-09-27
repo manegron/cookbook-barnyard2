@@ -5,7 +5,7 @@ name: lint
   pull_request:
   push:
     branches:
-      - create_list_test
+      - master
 
 jobs:
   cookstyle:
